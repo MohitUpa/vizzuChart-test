@@ -1,7 +1,8 @@
 import { AfterViewInit, Component, OnInit } from '@angular/core';
 
+// import 'https://cdn.jsdelivr.net/npm/vizzu@~0.5.0/dist/vizzu.min.js';
 // import '../assets/vizzu.js';
-declare const Vizzu:any; 
+// declare const Vizzu:any; 
 declare const data:any; 
 
 @Component({

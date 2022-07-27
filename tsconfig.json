@@ -16,7 +16,7 @@
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,
-    "target": "es2015",
+    "target": "esnext",
     "module": "CommonJS",
     "lib": [
       "es2020",
