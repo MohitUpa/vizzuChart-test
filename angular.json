@@ -30,7 +30,7 @@
               "src/styles.css"
             ],
             "scripts": [
-              "./src/assets/vizzu.js"
+              "./src/assets/data/vizzu.js"
             ]
           },
           "configurations": {

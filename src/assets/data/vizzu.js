@@ -43,7 +43,5 @@
 //     }
 // });
 
-// export function test() {
-//     console.log("test my js");
-// }
+// export default name = "mohit";
 
